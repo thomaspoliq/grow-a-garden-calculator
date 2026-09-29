@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grow-a-garden-calculator-sable.vercel.app/sitemap.xml
